@@ -1,3 +1,8 @@
+
+![Rd](https://user-images.githubusercontent.com/70065792/130258131-59f36e90-8128-4226-835c-4358ac053c2f.png)
+
+
+
 to run 
 `go run main.go`
 i.e `go run fileName.go`
